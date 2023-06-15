@@ -1,4 +1,4 @@
-9import { watchFile, unwatchFile } from 'fs'
+import { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 import fs from 'fs'
@@ -60,10 +60,10 @@ global.fglog = 'https://i.ibb.co/T1DqdYz/thumbnail.jpg'
 
 
 global.wait = '*💝 _Waiting Bro Uploading by 💝 Dark-Hat-Md 💝..._*'
-global.rwait = '🇱🇰'
-global.dmoji = '🤣'
-global.done = '👍'
-global.error = '👎' 
+global.rwait = '🔄'
+global.dmoji = '📤'
+global.done = '✅'
+global.error = '❌' 
 global.xmoji = '🫶' 
 
 global.multiplier = 69 
