@@ -1,6 +1,13 @@
 # 💝 QUEEN HENTAI 💝
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines=I'M+QUEEN-HENTAI ;Multi+Device+Whatsapp+Bot;Coded+By+💝Dinuwa+Official💝" alt="Typing SVG" /></a>
+
+<p align="center">
+ <a href="#"><img title="QUEEN HENTAI" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+<p align="center">
+<a href="https://github.com/dinuwah"><img title="Author" src="https://img.shields.io/badge/CREATOR-Dinuwa Official²⁰²³-green.svg?style=for-the-badge&logo=github"></a>
+
+---------
+
   
 <p align="center">  
   <a href="https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S">

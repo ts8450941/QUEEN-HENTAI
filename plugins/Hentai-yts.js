@@ -2,22 +2,22 @@
 import yts from 'yt-search'
 
 let handler = async (m, {conn, text }) => {
-  if (!text) throw '💝 Queen Hentai 💝 search for on YouTube?'
+  if (!text) throw '🇱🇰 Bza What do you want to search for on YT from Queen Hentai?'
   let results = await yts(text)
   let tes = results.all
   let teks = results.all.map(v => {
     switch (v.type) {
       case 'video': return `
 💝 ${v.title}
-💝 *Link* : ${v.url}
+💝 *Url* : ${v.url}
 💝 *Duration* : ${v.timestamp}
-💝 *publiced :* ${v.ago}
+💝 *published :* ${v.ago}
 💝 *Views:* ${v.views}
 
    `.trim()
       case 'canal': return `
 💝 *${v.name}* (${v.url})
-💝${v.subCountLabel} (${v.subCount}) Subscribe
+💝${v.subCountLabel} (${v.subCount}) Suscribe
 💝 ${v.videoCount} videos
 `.trim()
     }
